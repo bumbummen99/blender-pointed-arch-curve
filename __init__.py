@@ -25,10 +25,6 @@ bl_info = {
 
 import bpy
 
-#
-# Add additional functions here
-#
-
 def register():
     from . import pointedarch
     properties.register()
