@@ -13,15 +13,6 @@
 #
 # You should have received a copy of the GNU General Public License
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
-bl_info = {
-    "name": "Pointed Arch Curve",
-    "description": "Adds a \"pointed arch\" (gothic style) curve with customizable parameters",
-    "author": "Patrick Henninger",
-    "version": (1, 0),
-    "blender": (5, 0, 1),
-    "location": "Add > Curve",
-    "category": "Add Curve",
-}
 
 import bpy
 
