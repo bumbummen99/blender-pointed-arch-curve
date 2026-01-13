@@ -18,7 +18,7 @@ import bpy
 
 def register():
     from . import pointedarch
-    properties.register()
+    pointedarch.register()
 
 def unregister():
     from . import pointedarch
